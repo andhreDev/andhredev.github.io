@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "tahoma";
+}
+
+div {
+    text-align: center;
+    padding: 30px 0;
+}
+
+li {
+    width: 135px;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 10px auto;
+    text-align: justify;
+}
+
+.primeira-secao {
+    background-color: #afddfb;
+}
+
+.segunda-secao h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.terceira-secao h2 {
+    font-weight: normal;
+    color: #1c81c0;
+    margin-top: 0px;
+}
+
+.quarta-secao {
+    color: #ffffff;
+    background-color: #1d80c1;
+}
+
+.quinta-secao h2{
+    color: #1c81c0;
+}
+
+.quarta-secao li {
+    text-align: left;
+    line-height: 42px;
+    font-size: 22px;
+}
+
+.quarta-secao p {
+    width: 700px;
+    font-size: 22px;
+    line-height: 42px;
+}
+
+.quinta-secao img {
+    width: 490px;
+}
+
+/*IMAGENS*/
+.img-logo {
+    width: 150px;
+}
+
+.img-imovel-assinatura {
+    width: 450px;
+}
+
+.paragrafo-primeira-secao {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.banner {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
+/*LINKS*/
+.link-primeira-secao {
+    color: #1d1d1d;
+    font-size: 18px;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/*DESTAQUES*/
+.texto-azul{
+    font-weight: bold;
+    color: rgb(40, 125, 168);
+}
+
+.texto-amarelo {
+    font-weight: bold;
+    color: rgb(221, 207, 10);
+}

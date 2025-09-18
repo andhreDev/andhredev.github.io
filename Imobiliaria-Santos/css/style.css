@@ -41,13 +41,17 @@ p {
     margin-top: 0px;
 }
 
-.quarta-secao {
+.quarta-secao, .sexta-secao {
     color: #ffffff;
     background-color: #1d80c1;
 }
 
 .quinta-secao h2{
     color: #1c81c0;
+}
+
+.sexta-secao {
+
 }
 
 .quarta-secao li {
@@ -75,15 +79,16 @@ p {
     width: 450px;
 }
 
+.banner {
+    margin-top: 50px;
+    padding-top: 0px;
+}
+
 .paragrafo-primeira-secao {
     text-align: center;
     margin-top: 15px;
 }
 
-.banner {
-    margin-top: 50px;
-    padding-top: 0px;
-}
 
 /*LINKS*/
 .link-primeira-secao {

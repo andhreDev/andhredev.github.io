@@ -81,6 +81,20 @@ p {
     margin: 40px auto;
 }
 
+.sexta-secao li {
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.sexta-secao a {
+    text-decoration: none;
+    color: #1d80c1;
+    background-color: white;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+}
+
 /*IMAGENS*/
 .img-logo {
     width: 150px;

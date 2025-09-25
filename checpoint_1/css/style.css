@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    text-align: center;
+    font-family: "tahoma";
+    padding: 30px 0;
+}
+
+
+
+h1 {
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: yellow;
+
+}
+
+.link-secao-1 {
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.secao_1, .secao_3, .secao_5 {
+    background-color: rgb(19, 27, 50);
+}
+
+.div-azul p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    line-height: 50px;
+    text-align: justify;
+    width: 980px;
+    margin: 10px auto;
+}
+
+.div-branca h2 {
+    color: black;
+}
+
+.div-branca p{
+    color: rgb(10, 0, 0);
+    font-size: 25px;
+    line-height: 50px;
+    text-align: justify;
+    width: 980px;
+    margin: 10px auto;
+}
+
+.secao_4 ul {
+    text-align: center;
+    list-style:circle;
+}
+
+.banner {
+    width: 1000px;
+    margin: 50px 0;
+}
+
+.logo, .tecnico {
+    width: 550px;
+    padding: 30px 0;
+}
+
+.secao01 {
+    color: white;
+    font-size: 19px;
+    text-align: center;
+}

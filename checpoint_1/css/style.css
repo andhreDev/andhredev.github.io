@@ -28,6 +28,16 @@ h2 {
     padding: 15px;
 }
 
+span {
+   
+    color: rgb(31, 76, 210);
+    font-weight: bold;
+}
+
+.img-produtos {
+    width: 300px;
+}
+
 .secao_1, .secao_3, .secao_5 {
     background-color: rgb(19, 27, 50);
 }
@@ -54,8 +64,6 @@ h2 {
     margin: 10px auto;
 }
 
-
-
 .secao_4 ul {
     font-size: 20px;
     font-weight: bold;
@@ -65,15 +73,27 @@ h2 {
     width: 300px;
     margin: 30px auto;
     background-color: white ;
-    color: rgb(19, 27, 50);
+    color: rgb(31, 76, 210);
 }
 
 .banner {
-    width: 1000px;
-    margin: 50px 0;
+    width: 980px;
 }
 
 .logo, .tecnico {
     width: 550px;
     padding: 30px 0;
+}
+
+.produtos_acessorios {
+    font-size: 20px;
+    font-weight: bold;
+    list-style:square;
+    line-height: 40px;
+    text-align: left;
+    width: 300px;
+    margin: 30px auto;
+    background-color: rgb(19, 27, 50);
+    color: rgb(31, 76, 210);
+
 }

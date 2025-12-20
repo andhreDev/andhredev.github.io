@@ -3,13 +3,16 @@
     padding: 0;
 }
 
+body {
+    font-family: "tahoma";
+}
+
 div {
     text-align: center;
-    font-family: "tahoma";
     padding: 30px 0;
 }
 
-h1 {
+h1 {    
     font-weight: bold;
     color: white;
     font-size: 50px;
@@ -28,8 +31,7 @@ h2 {
     padding: 15px;
 }
 
-span {
-   
+span {   
     color: rgb(31, 76, 210);
     font-weight: bold;
 }
@@ -39,14 +41,44 @@ span {
 }
 
 .secao_1, .secao_3, .secao_5 {
-    background-color: rgb(19, 27, 50);
+    background-color: rgb(244, 104, 10);
+    /*background-color: rgb(19, 27, 50);*/
 }
+
+.secao_6 p{
+    color: rgb(255, 255, 255);
+    background-color: rgb(244, 104, 10);
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    width: 980px;
+    margin: 10px auto;
+}
+
+.div-branca p{
+    color: rgb(10, 0, 0);
+    font-size: 25px;
+    line-height: 50px;
+    text-align: center;
+    width: 980px;
+    margin: 30px auto;
+    padding: 15px;
+}
+
+.subtitulo-mapa {
+    color: black;
+}
+
+/* .secao_2, .secao_4, .secao_6 {
+    background-color: rgb(19, 27, 50)
+} */
+
 
 .div-azul p {
     color: rgb(255, 255, 255);
     font-size: 25px;
     line-height: 50px;
-    text-align: justify;
+    text-align: center;
     width: 980px;
     margin: 10px auto;
 }
@@ -55,14 +87,7 @@ span {
     color: black;
 }
 
-.div-branca p{
-    color: rgb(10, 0, 0);
-    font-size: 25px;
-    line-height: 50px;
-    text-align: justify;
-    width: 980px;
-    margin: 10px auto;
-}
+
 
 .secao_4 ul {
     font-size: 20px;
@@ -73,8 +98,47 @@ span {
     width: 300px;
     margin: 30px auto;
     background-color: white ;
-    color: rgb(31, 76, 210);
+    color: rgb(244, 104, 10);
 }
+
+.secao_5 ul {
+    font-size: 20px;
+    font-weight: bold;
+    list-style:square;
+    line-height: 40px;
+    text-align: left;
+    width: 300px;
+    margin: 30px auto;
+    background-color: rgb(244, 104, 10);
+    color:yellow;
+}
+
+.lista-mapa {
+    width: 210px;
+    list-style: none;
+    margin: auto;    
+
+}
+
+.secao_6 {
+    text-align: center;
+    margin: 40px auto;
+}
+
+.secao_6 li {   
+    width: 300px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 15px;
+}
+
+.secao_6 a {
+    text-decoration: none;
+    color: rgb(18, 18, 18);
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+    background-color: rgb(221, 215, 35);
+}   
 
 .banner {
     width: 980px;
